@@ -12,10 +12,10 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Kalindhu Navanjana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Kalindhu Navanjana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kalindhu Navanjana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kalindhu Navanjana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kalindhu Navanjana | Twitter" width="22px" src="./assets/Facebook_100px.png" />][facebook]
+[<img align="left" alt="Kalindhu Navanjana | Twitter" width="22px" src="./assets/Twitter_100px.png" />][twitter]
+[<img align="left" alt="Kalindhu Navanjana | LinkedIn" width="22px" src="./assets/LinkedIn_100px.png" />][linkedin]
+[<img align="left" alt="Kalindhu Navanjana | Instagram" width="22px" src="./assets/Instagram_100px.png" />][instagram]
 
 <br />
 
@@ -34,7 +34,6 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<svg viewBox="0 0 600 476.30000000000007" xmlns="http://www.w3.org/2000/svg" width="26"><path d="M0 259.8V0l225 129.9v86.6L75 129.9v173.2z" fill="#00b0ff"/><path d="M225 129.9L450 0v259.8l-150 86.6-75-43.3 150-86.6v-86.6l-150 86.6z" fill="#0081cb"/><path d="M225 303.1v86.6l150 86.6v-86.6z" fill="#00b0ff"/><path d="M375 476.3l225-129.9V173.2l-75 43.3v86.6l-150 86.6zm150-346.4V43.3L600 0v86.6z" fill="#0081cb"/></svg>
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
