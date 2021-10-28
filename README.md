@@ -5,7 +5,7 @@
 - 🎓 The degree, I'm following is **BSc(Hons) Software Engineering**.👨🏽‍💻
 - 🏬 These days I,m working as a Trainee Sofware Engineer at [Ceyleon Solutions (Pvt) Ltd][ceyleon].
 - 📚 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other nerds.
+- 👯 I’m looking to collaborate with others in this technology field.
 - 🥅 Goals: Contribute something to the world. So they will remember me forever.🏁
 - ⚡ Fun fact: I learn *2D/3D Graphic Designing and Animation* as a **HOBBY**😅. yeah! you read it right "as a HOBBY"🤭
 
