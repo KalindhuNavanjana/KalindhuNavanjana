@@ -3,7 +3,8 @@
 ### I'm an undergraduate at University of Colombo School of Computing 🧑‍🎓
 
 - 🎓 The degree, I'm following is **BSc(Hons) Software Engineering**.👨🏽‍💻
-- 🏬 These days I,m working as a Trainee Sofware Engineer at [Ceyleon Solutions (Pvt) Ltd][ceyleon].
+- 🎓 These days I,m oing my research(An Application for Early Detection of Diabetic Retinopathy) to complete my degree programme.
+- 🏬 last year i worked as a Trainee Sofware Engineer at [Ceyleon Solutions (Pvt) Ltd][ceyleon].
 - 📚 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others in this technology field.
 - 🥅 Goals: Contribute something to the world. So they will remember me forever.🏁
