@@ -2,8 +2,8 @@
 
 ### I'm an undergraduate at University of Colombo School of Computing 🧑‍🎓
 
-- 🎓 The degree, I'm following is **BSc(Hons) Software Engineering**.👨🏽‍💻
-- 🎓 These days I,m oing my research(An Application for Early Detection of Diabetic Retinopathy) to complete my degree programme.
+- 🎓 I just completed my degree programme **BSc(Hons) Software Engineering**, end of june this year and waiting to be graduated.👨🏽‍💻
+- 🎓 I have completed my research (An Application for Early Detection of Diabetic Retinopathy) and we reached the accuracy of 93%.
 - 🏬 last year i worked as a Trainee Sofware Engineer at [Ceyleon Solutions (Pvt) Ltd][ceyleon].
 - 📚 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others in this technology field.
