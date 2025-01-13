@@ -2,13 +2,14 @@
 
 ### I'm an undergraduate at University of Colombo School of Computing 🧑‍🎓
 
-- 🎓 I just completed my degree programme **BSc(Hons) Software Engineering**, end of june this year and waiting to be graduated.👨🏽‍💻
+- 🧑🏻‍💻 Full Stack Software Engineer at Xeptagon.
+- 🎓 I completed my degree programme **BSc(Hons) Software Engineering**, end of june this year and waiting to be graduated.👨🏽‍💻
 - 🎓 I have completed my research (An Application for Early Detection of Diabetic Retinopathy) and we reached the accuracy of 93%.
-- 🏬 last year i worked as a Trainee Sofware Engineer at [Ceyleon Solutions (Pvt) Ltd][ceyleon].
-- 📚 I’m currently learning everything 🤣
+- 🏬 I worked as a Trainee Sofware Engineer at [Ceyleon Solutions (Pvt) Ltd][ceyleon].
+- 📚 I’m currently learning cloud services.
 - 👯 I’m looking to collaborate with others in this technology field.
 - 🥅 Goals: Contribute something to the world. So they will remember me forever.🏁
-- ⚡ Fun fact: I learn *2D/3D Graphic Designing and Animation* as a **HOBBY**😅. yeah! you read it right "as a HOBBY"🤭
+- ⚡ Fun fact: I learn *2D/3D Graphic Designing and Animation* as a **HOBBY**😅
 
 ### Connect with me:
 
